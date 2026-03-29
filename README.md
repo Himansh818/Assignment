@@ -4,7 +4,7 @@
  ## [Live Demo](https://assignmentdashboard.vercel.app/)
 
 
-
+]
 A React-based admin dashboard table with loading skeleton, sorting, pagination, row selection, and bulk delete functionality.
 
 ## Features
